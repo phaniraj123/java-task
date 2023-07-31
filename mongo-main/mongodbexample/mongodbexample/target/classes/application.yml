@@ -1,0 +1,6 @@
+spring:
+    data:
+        mongodb:
+            database: mydb2
+            host: container1
+            port: 27017
