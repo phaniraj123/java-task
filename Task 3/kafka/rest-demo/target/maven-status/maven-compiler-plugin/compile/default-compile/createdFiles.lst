@@ -1,0 +1,5 @@
+com\springexample\restdemo\controller\StudentController.class
+com\springexample\restdemo\Structure.class
+com\springexample\restdemo\controller\StructureAPIService.class
+com\springexample\restdemo\RestDemoApplication.class
+com\springexample\restdemo\rep\StudentRepository.class
